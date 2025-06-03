@@ -32,6 +32,14 @@ Set `siteUrl` to: `https://firsto.co`
 
 ## 🗓️ Daily Ranking Badge Code
 
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 1 Daily Winner">
+  <img 
+    src="https://firsto.co/images/badges/daily-top1.svg" 
+    alt="{siteName} Top 1 Daily Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+
 ```html
 <!-- Daily Top 1 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 1 Daily Winner">
@@ -41,8 +49,8 @@ Set `siteUrl` to: `https://firsto.co`
     style="width: 195px; height: auto;" 
   />
 </a>
+```
 
-<!-- Daily Top 2 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 2 Daily Winner">
   <img 
     src="https://firsto.co/images/badges/daily-top2.svg" 
@@ -51,6 +59,26 @@ Set `siteUrl` to: `https://firsto.co`
   />
 </a>
 
+```html
+<!-- Daily Top 2 -->
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 2 Daily Winner">
+  <img 
+    src="https://firsto.co/images/badges/daily-top2.svg" 
+    alt="{siteName} Top 2 Daily Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+```
+
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 3 Daily Winner">
+  <img 
+    src="https://firsto.co/images/badges/daily-top3.svg" 
+    alt="{siteName} Top 3 Daily Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+
+```html
 <!-- Daily Top 3 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 3 Daily Winner">
   <img 
@@ -65,6 +93,14 @@ Set `siteUrl` to: `https://firsto.co`
 
 ## 📅 Weekly Ranking Badge Code
 
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 1 Weekly Winner">
+  <img 
+    src="https://firsto.co/images/badges/weekly-top1.svg" 
+    alt="{siteName} Top 1 Weekly Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+
 ```html
 <!-- Weekly Top 1 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 1 Weekly Winner">
@@ -74,8 +110,8 @@ Set `siteUrl` to: `https://firsto.co`
     style="width: 195px; height: auto;" 
   />
 </a>
+```
 
-<!-- Weekly Top 2 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 2 Weekly Winner">
   <img 
     src="https://firsto.co/images/badges/weekly-top2.svg" 
@@ -84,6 +120,27 @@ Set `siteUrl` to: `https://firsto.co`
   />
 </a>
 
+```html
+<!-- Weekly Top 2 -->
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 2 Weekly Winner">
+  <img 
+    src="https://firsto.co/images/badges/weekly-top2.svg" 
+    alt="{siteName} Top 2 Weekly Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+```
+
+<!-- Weekly Top 3 -->
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 3 Weekly Winner">
+  <img 
+    src="https://firsto.co/images/badges/weekly-top3.svg" 
+    alt="{siteName} Top 3 Weekly Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+
+```html
 <!-- Weekly Top 3 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 3 Weekly Winner">
   <img 
@@ -98,6 +155,15 @@ Set `siteUrl` to: `https://firsto.co`
 
 ## 📆 Monthly Ranking Badge Code
 
+
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 1 Monthly Winner">
+  <img 
+    src="https://firsto.co/images/badges/monthly-top1.svg" 
+    alt="{siteName} Top 1 Monthly Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+
 ```html
 <!-- Monthly Top 1 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 1 Monthly Winner">
@@ -107,8 +173,8 @@ Set `siteUrl` to: `https://firsto.co`
     style="width: 195px; height: auto;" 
   />
 </a>
+```
 
-<!-- Monthly Top 2 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 2 Monthly Winner">
   <img 
     src="https://firsto.co/images/badges/monthly-top2.svg" 
@@ -117,6 +183,26 @@ Set `siteUrl` to: `https://firsto.co`
   />
 </a>
 
+```html
+<!-- Monthly Top 2 -->
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 2 Monthly Winner">
+  <img 
+    src="https://firsto.co/images/badges/monthly-top2.svg" 
+    alt="{siteName} Top 2 Monthly Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+```
+
+<a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 3 Monthly Winner">
+  <img 
+    src="https://firsto.co/images/badges/monthly-top3.svg" 
+    alt="{siteName} Top 3 Monthly Winner" 
+    style="width: 195px; height: auto;" 
+  />
+</a>
+
+```html
 <!-- Monthly Top 3 -->
 <a href="https://firsto.co/projects/{slug}" target="_blank" title="{siteName} Top 3 Monthly Winner">
   <img 
